@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: rgb(3, 10, 49);
+}
+
+.text-box {background-color: transparent;
+border-radius: 3px;
+border-color: linen;
+}
+
+
+input[type="button"] {
+width: 3rem;
+height: 2rem;
+background-color: gray;
+font-weight: bolder;
+font-size: 0.75rem;
+border-style: double;
+
+}
+
+    
+
+.container {
+    margin-top: 50px;
+    padding: 5px 5px 5px 5px;
+    height: 100px;
+    border-color: lightsteelblue;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: lightgray;
+    font-size: 0.8rem;
+   
+
+}
